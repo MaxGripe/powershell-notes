@@ -1,25 +1,13 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/powershell-notes)
+![GitHub License](https://img.shields.io/github/license/MaxGripe/powershell-notes)
+![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/powershell-notes)
+![GitHub forks](https://img.shields.io/github/forks/MaxGripe/powershell-notes)
+![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/powershell-notes)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/repository-template)
-![GitHub License](https://img.shields.io/github/license/MaxGripe/repository-template)
-![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/repository-template)
-![GitHub forks](https://img.shields.io/github/forks/MaxGripe/repository-template)
-![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/repository-template)
+# PowerShell notes
 
-
-# Template Repository
-
-This repository serves as a template for starting new projects.
-
-## Features
-
-- Easy setup
-- Customizable configurations
-- Some popular badges already in place
-
-## Getting started
-
-To use this template, select it from the **Repository template** dropdown when creating a new repository.
+This repository contains notes and PowerShell snippets that I saved because, for some reason, I found them useful :) The goal is to avoid reinventing the wheel.
 
 ## License
 
-This project is released under the [Unlicense](LICENSE) license.
+This repo is released under the [Unlicense](LICENSE) license.
