@@ -8,6 +8,8 @@
 
 This repository contains notes and PowerShell snippets that I saved because, for some reason, I found them useful :) The goal is to avoid reinventing the wheel.
 
+![PowerShell notes](powershell-notes.png)
+
 ## License
 
 This repo is released under the [Unlicense](LICENSE) license.
